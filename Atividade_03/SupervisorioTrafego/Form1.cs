@@ -14,6 +14,8 @@ namespace SupervisorioTrafego
     public partial class Form1 : Form
     {
         int timerAvenue = 0;
+        int timerRoad = 0;
+        int timerEmergence = 0;
 
         public Form1()
         {
@@ -62,6 +64,24 @@ namespace SupervisorioTrafego
         private void btnStart_Click(object sender, EventArgs e)
         {
             timerAvenueGreen.Enabled = true;
+            timerRoadRed.Enabled = true;
+        }
+
+        private void btnShutdown_Click(object sender, EventArgs e)
+        {
+            timerAvenueGreen.Enabled = false;
+            timerAvenueYellow.Enabled = false;
+            timerAvenueRed.Enabled = false;
+            pbAvenueGreen.Visible = true;
+            pbAvenueYellow.Visible = false;
+            pbAvenueRed.Visible = false;
+
+            timerRoadRed.Enabled = false;
+            timerRoadYellow.Enabled = false;
+            timerRoadGreen.Enabled = false;
+            pbRoadRed.Visible = true;
+            pbRoadYellow.Visible = false;
+            pbRoadGreen.Visible = false;
         }
 
         private void timerAvenueGreen_Tick(object sender, EventArgs e)
@@ -87,7 +107,7 @@ namespace SupervisorioTrafego
                 timerAvenue = 0;
                 timerAvenueYellow.Enabled = false;
                 pbAvenueYellow.Visible = false;
-                pbRoadRed.Visible = true;
+                pbAvenueRed.Visible = true;
                 timerAvenueRed.Enabled = true;
             }
 
@@ -108,18 +128,88 @@ namespace SupervisorioTrafego
 
         }
 
+
+
         private void timerRoadRead_Tick(object sender, EventArgs e)
         {
+            timerRoad++;
 
+            if (timerRoad == 3)
+            {
+                timerRoad = 0;
+                timerRoadRed.Enabled = false;
+                pbRoadRed.Visible = false;
+                pbRoadYellow.Visible = true;
+                timerRoadYellow.Enabled = true;
+            }
         }
 
         private void timerRoadYellow_Tick(object sender, EventArgs e)
         {
+            timerRoad++;
 
+            if (timerRoad == 1)
+            {
+                timerRoad = 0;
+                timerRoadYellow.Enabled = false;
+                pbRoadYellow.Visible = false;
+                pbRoadGreen.Visible = true;
+                timerRoadGreen.Enabled = true;
+            }
         }
 
         private void timerRoadGreen_Tick(object sender, EventArgs e)
         {
+            timerRoad++;
+
+            if (timerRoad == 2)
+            {
+                timerRoad = 0;
+                pbRoadGreen.Visible = false;
+                timerRoadGreen.Enabled = false;
+                pbRoadRed.Visible = true;
+                timerRoadRed.Enabled = true;
+            }
+        }
+
+        private void btnEmergency_Click(object sender, EventArgs e)
+        {
+            timerEmergency.Enabled = true;
+            pbAvenueYellow.Visible = true;
+            pbRoadYellow.Visible = true;
+
+            timerAvenue = 0;
+            timerRoad = 0;
+
+            timerAvenueGreen.Enabled = false;
+            timerAvenueYellow.Enabled = false;
+            timerAvenueRed.Enabled = false;
+            pbAvenueGreen.Visible = false;
+            pbAvenueRed.Visible = false;
+
+            timerRoadRed.Enabled = false;
+            timerRoadYellow.Enabled = false;
+            timerRoadGreen.Enabled = false;
+            pbRoadRed.Visible = false;
+            pbRoadGreen.Visible = false;
+        }
+
+        private void timerEmergency_Tick(object sender, EventArgs e)
+        {
+            timerEmergence++;
+
+            if (timerEmergence == 5)
+            {
+                timerEmergence = 0;
+                timerEmergency.Enabled = false;
+                pbAvenueYellow.Visible = false;
+                pbRoadYellow.Visible = false;
+
+                pbRoadRed.Visible = true;
+                timerRoadRed.Enabled = true;
+                pbAvenueGreen.Visible = true;
+                timerAvenueGreen.Enabled = true;
+            }
 
         }
     }

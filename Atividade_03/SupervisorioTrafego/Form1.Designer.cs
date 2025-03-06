@@ -54,9 +54,10 @@
             this.timerAvenueGreen = new System.Windows.Forms.Timer(this.components);
             this.timerAvenueYellow = new System.Windows.Forms.Timer(this.components);
             this.timerAvenueRed = new System.Windows.Forms.Timer(this.components);
-            this.timerRoadRead = new System.Windows.Forms.Timer(this.components);
+            this.timerRoadRed = new System.Windows.Forms.Timer(this.components);
             this.timerRoadYellow = new System.Windows.Forms.Timer(this.components);
             this.timerRoadGreen = new System.Windows.Forms.Timer(this.components);
+            this.timerEmergency = new System.Windows.Forms.Timer(this.components);
             this.navigationBar.SuspendLayout();
             this.bottomBar.SuspendLayout();
             this.bottomBarTop.SuspendLayout();
@@ -183,6 +184,7 @@
             this.btnEmergency.TabIndex = 3;
             this.btnEmergency.Text = "Emergency";
             this.btnEmergency.UseVisualStyleBackColor = false;
+            this.btnEmergency.Click += new System.EventHandler(this.btnEmergency_Click);
             // 
             // btnStart
             // 
@@ -208,6 +210,7 @@
             this.btnShutdown.TabIndex = 5;
             this.btnShutdown.Text = "Shutdown";
             this.btnShutdown.UseVisualStyleBackColor = false;
+            this.btnShutdown.Click += new System.EventHandler(this.btnShutdown_Click);
             // 
             // pbRoadYellow
             // 
@@ -308,18 +311,25 @@
             this.timerAvenueRed.Interval = 2000;
             this.timerAvenueRed.Tick += new System.EventHandler(this.timerAvenueRed_Tick);
             // 
-            // timerRoadRead
+            // timerRoadRed
             // 
-            this.timerRoadRead.Interval = 3000;
-            this.timerRoadRead.Tick += new System.EventHandler(this.timerRoadRead_Tick);
+            this.timerRoadRed.Interval = 3000;
+            this.timerRoadRed.Tick += new System.EventHandler(this.timerRoadRead_Tick);
             // 
             // timerRoadYellow
             // 
+            this.timerRoadYellow.Interval = 1000;
             this.timerRoadYellow.Tick += new System.EventHandler(this.timerRoadYellow_Tick);
             // 
             // timerRoadGreen
             // 
+            this.timerRoadGreen.Interval = 2000;
             this.timerRoadGreen.Tick += new System.EventHandler(this.timerRoadGreen_Tick);
+            // 
+            // timerEmergency
+            // 
+            this.timerEmergency.Interval = 5000;
+            this.timerEmergency.Tick += new System.EventHandler(this.timerEmergency_Tick);
             // 
             // Form1
             // 
@@ -393,9 +403,10 @@
         private System.Windows.Forms.Timer timerAvenueGreen;
         private System.Windows.Forms.Timer timerAvenueYellow;
         private System.Windows.Forms.Timer timerAvenueRed;
-        private System.Windows.Forms.Timer timerRoadRead;
+        private System.Windows.Forms.Timer timerRoadRed;
         private System.Windows.Forms.Timer timerRoadYellow;
         private System.Windows.Forms.Timer timerRoadGreen;
+        private System.Windows.Forms.Timer timerEmergency;
     }
 }
 
