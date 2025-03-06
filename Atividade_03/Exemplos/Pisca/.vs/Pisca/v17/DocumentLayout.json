@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Faculdade - SENAI\\3\u00BA Semestre\\IFACI\\C#\\Aula_03\\Pisca\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\IFACI\\Atividade_03\\Exemplos\\Pisca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02E1C0B6-DA50-438E-9A98-A59F5187A7CC}|Pisca.csproj|E:\\Faculdade - SENAI\\3\u00BA Semestre\\IFACI\\C#\\Aula_03\\Pisca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02E1C0B6-DA50-438E-9A98-A59F5187A7CC}|Pisca.csproj|c:\\users\\aluno\\desktop\\ifaci\\atividade_03\\exemplos\\pisca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02E1C0B6-DA50-438E-9A98-A59F5187A7CC}|Pisca.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02E1C0B6-DA50-438E-9A98-A59F5187A7CC}|Pisca.csproj|e:\\faculdade - senai\\3\u00BA semestre\\ifaci\\c#\\aula_03\\pisca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{02E1C0B6-DA50-438E-9A98-A59F5187A7CC}|Pisca.csproj|C:\\Users\\Aluno\\Desktop\\IFACI\\Atividade_03\\Exemplos\\Pisca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02E1C0B6-DA50-438E-9A98-A59F5187A7CC}|Pisca.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Faculdade - SENAI\\3\u00BA Semestre\\IFACI\\C#\\Aula_03\\Pisca\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\IFACI\\Atividade_03\\Exemplos\\Pisca\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Faculdade - SENAI\\3\u00BA Semestre\\IFACI\\C#\\Aula_03\\Pisca\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\IFACI\\Atividade_03\\Exemplos\\Pisca\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T22:26:12.662Z",
               "EditorCaption": ""
@@ -37,13 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\Faculdade - SENAI\\3\u00BA Semestre\\IFACI\\C#\\Aula_03\\Pisca\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\IFACI\\Atividade_03\\Exemplos\\Pisca\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "E:\\Faculdade - SENAI\\3\u00BA Semestre\\IFACI\\C#\\Aula_03\\Pisca\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T22:15:54.504Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-26T22:15:54.504Z"
             }
           ]
         }
