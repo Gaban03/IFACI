@@ -97,6 +97,9 @@ namespace SupervisorioTrafego
 
             if (mb == DialogResult.Yes)
             {
+                timerAvenue = 0;
+                timerRoad = 0;
+                timerEmergence = 0;
                 timerAvenueGreen.Enabled = false;
                 timerAvenueYellow.Enabled = false;
                 timerAvenueRed.Enabled = false;
@@ -121,7 +124,7 @@ namespace SupervisorioTrafego
         {
             timerAvenue++;
 
-            if (timerAvenue == 3) {
+            if (timerAvenue == 2) {
                 timerAvenue = 0;
                 timerAvenueGreen.Enabled = false;
                 pbAvenueGreen.Visible = false;
@@ -150,7 +153,7 @@ namespace SupervisorioTrafego
         {
             timerAvenue++;
 
-            if (timerAvenue == 2)
+            if (timerAvenue == 3)
             {
                 timerAvenue = 0;
                 timerAvenueRed.Enabled = false;
@@ -167,7 +170,7 @@ namespace SupervisorioTrafego
         {
             timerRoad++;
 
-            if (timerRoad == 2)
+            if (timerRoad == 3)
             {
                 timerRoad = 0;
                 timerRoadRed.Enabled = false;
@@ -181,7 +184,7 @@ namespace SupervisorioTrafego
         {
             timerRoad++;
 
-            if (timerRoad == 3)
+            if (timerRoad == 2)
             {
                 timerRoad = 0;
                 pbRoadGreen.Visible = false;

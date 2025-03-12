@@ -308,12 +308,12 @@
             // 
             // timerAvenueRed
             // 
-            this.timerAvenueRed.Interval = 2000;
+            this.timerAvenueRed.Interval = 1000;
             this.timerAvenueRed.Tick += new System.EventHandler(this.timerAvenueRed_Tick);
             // 
             // timerRoadRed
             // 
-            this.timerRoadRed.Interval = 2000;
+            this.timerRoadRed.Interval = 1000;
             this.timerRoadRed.Tick += new System.EventHandler(this.timerRoadRed_Tick);
             // 
             // timerRoadYellow
@@ -328,7 +328,7 @@
             // 
             // timerEmergency
             // 
-            this.timerEmergency.Interval = 5000;
+            this.timerEmergency.Interval = 1000;
             this.timerEmergency.Tick += new System.EventHandler(this.timerEmergency_Tick);
             // 
             // Form1
