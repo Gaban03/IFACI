@@ -1,0 +1,10 @@
+C:\Users\Gaban\Desktop\IFACI\Atividade_04\SupervisorioTanqueDeMistura\SupervisorioTanqueDeMistura\bin\Debug\SupervisorioTanqueDeMistura.exe.config
+C:\Users\Gaban\Desktop\IFACI\Atividade_04\SupervisorioTanqueDeMistura\SupervisorioTanqueDeMistura\bin\Debug\SupervisorioTanqueDeMistura.exe
+C:\Users\Gaban\Desktop\IFACI\Atividade_04\SupervisorioTanqueDeMistura\SupervisorioTanqueDeMistura\bin\Debug\SupervisorioTanqueDeMistura.pdb
+C:\Users\Gaban\Desktop\IFACI\Atividade_04\SupervisorioTanqueDeMistura\SupervisorioTanqueDeMistura\obj\Debug\SupervisorioTanqueDeMistura.csproj.AssemblyReference.cache
+C:\Users\Gaban\Desktop\IFACI\Atividade_04\SupervisorioTanqueDeMistura\SupervisorioTanqueDeMistura\obj\Debug\SupervisorioTanqueDeMistura.Form1.resources
+C:\Users\Gaban\Desktop\IFACI\Atividade_04\SupervisorioTanqueDeMistura\SupervisorioTanqueDeMistura\obj\Debug\SupervisorioTanqueDeMistura.Properties.Resources.resources
+C:\Users\Gaban\Desktop\IFACI\Atividade_04\SupervisorioTanqueDeMistura\SupervisorioTanqueDeMistura\obj\Debug\SupervisorioTanqueDeMistura.csproj.GenerateResource.cache
+C:\Users\Gaban\Desktop\IFACI\Atividade_04\SupervisorioTanqueDeMistura\SupervisorioTanqueDeMistura\obj\Debug\SupervisorioTanqueDeMistura.csproj.CoreCompileInputs.cache
+C:\Users\Gaban\Desktop\IFACI\Atividade_04\SupervisorioTanqueDeMistura\SupervisorioTanqueDeMistura\obj\Debug\SupervisorioTanqueDeMistura.exe
+C:\Users\Gaban\Desktop\IFACI\Atividade_04\SupervisorioTanqueDeMistura\SupervisorioTanqueDeMistura\obj\Debug\SupervisorioTanqueDeMistura.pdb

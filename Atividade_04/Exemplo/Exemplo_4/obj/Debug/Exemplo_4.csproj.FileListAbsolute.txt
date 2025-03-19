@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\Atividade_04\Exemplo\Exemplo_4\bin\Debug\Exemplo_4.exe.config
+C:\Users\Aluno\Desktop\Atividade_04\Exemplo\Exemplo_4\bin\Debug\Exemplo_4.exe
+C:\Users\Aluno\Desktop\Atividade_04\Exemplo\Exemplo_4\bin\Debug\Exemplo_4.pdb
+C:\Users\Aluno\Desktop\Atividade_04\Exemplo\Exemplo_4\obj\Debug\Exemplo_4.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Atividade_04\Exemplo\Exemplo_4\obj\Debug\Exemplo_4.Form1.resources
+C:\Users\Aluno\Desktop\Atividade_04\Exemplo\Exemplo_4\obj\Debug\Exemplo_4.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Atividade_04\Exemplo\Exemplo_4\obj\Debug\Exemplo_4.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Atividade_04\Exemplo\Exemplo_4\obj\Debug\Exemplo_4.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Atividade_04\Exemplo\Exemplo_4\obj\Debug\Exemplo_4.exe
+C:\Users\Aluno\Desktop\Atividade_04\Exemplo\Exemplo_4\obj\Debug\Exemplo_4.pdb

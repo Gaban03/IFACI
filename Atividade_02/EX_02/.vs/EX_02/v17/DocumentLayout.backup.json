@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\IFACI\\Atividades\\Atividade_02\\EX_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{172CCF61-B850-4753-A277-4EF9ECC9F1AD}|EX_02\\EX_02.csproj|c:\\users\\aluno\\desktop\\ifaci\\atividades\\atividade_02\\ex_02\\ex_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172CCF61-B850-4753-A277-4EF9ECC9F1AD}|EX_02\\EX_02.csproj|solutionrelative:ex_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172CCF61-B850-4753-A277-4EF9ECC9F1AD}|EX_02\\EX_02.csproj|c:\\users\\aluno\\desktop\\ifaci\\atividades\\atividade_02\\ex_02\\ex_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{172CCF61-B850-4753-A277-4EF9ECC9F1AD}|EX_02\\EX_02.csproj|solutionrelative:ex_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\IFACI\\Atividades\\Atividade_02\\EX_02\\EX_02\\Form1.cs",
+              "RelativeDocumentMoniker": "EX_02\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\IFACI\\Atividades\\Atividade_02\\EX_02\\EX_02\\Form1.cs",
+              "RelativeToolTip": "EX_02\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:47:46.903Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\IFACI\\Atividades\\Atividade_02\\EX_02\\EX_02\\Form1.cs",
+              "RelativeDocumentMoniker": "EX_02\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\IFACI\\Atividades\\Atividade_02\\EX_02\\EX_02\\Form1.cs [Design]",
+              "RelativeToolTip": "EX_02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:44:12.162Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
