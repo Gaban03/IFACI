@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\IFACI\Atividade_05\interfacePortasCOM\bin\Debug\interfacePortasCOM.exe.config
+C:\Users\Aluno\Desktop\IFACI\Atividade_05\interfacePortasCOM\bin\Debug\interfacePortasCOM.exe
+C:\Users\Aluno\Desktop\IFACI\Atividade_05\interfacePortasCOM\bin\Debug\interfacePortasCOM.pdb
+C:\Users\Aluno\Desktop\IFACI\Atividade_05\interfacePortasCOM\obj\Debug\interfacePortasCOM.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\IFACI\Atividade_05\interfacePortasCOM\obj\Debug\interfacePortasCOM.Form1.resources
+C:\Users\Aluno\Desktop\IFACI\Atividade_05\interfacePortasCOM\obj\Debug\interfacePortasCOM.Properties.Resources.resources
+C:\Users\Aluno\Desktop\IFACI\Atividade_05\interfacePortasCOM\obj\Debug\interfacePortasCOM.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\IFACI\Atividade_05\interfacePortasCOM\obj\Debug\interfacePortasCOM.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\IFACI\Atividade_05\interfacePortasCOM\obj\Debug\interfacePortasCOM.exe
+C:\Users\Aluno\Desktop\IFACI\Atividade_05\interfacePortasCOM\obj\Debug\interfacePortasCOM.pdb
